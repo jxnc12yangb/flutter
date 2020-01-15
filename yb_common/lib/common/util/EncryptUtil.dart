@@ -8,9 +8,8 @@ import 'package:pointycastle/asymmetric/api.dart';
 class EncryptUtil {
 
   //公钥
-  static const _publicKeyString = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC279pKKc7AxEH4DWNq92DeaTFGz7M2gg6dcqbhAIsn2eah1MLWz3j4uAshU0P4QDV/JjUSBL5y/qHv/DQdE8ibFSrnq7Y1jl4VThAzaF2NHxhnjDZkpnmIyijkv/v5PA+c6eSinDQ3zDdUaKwW5cR1ipBu1x/TwPgVxeUZ4CMvWwIDAQAB";
-  //
-  static const TextKey =          "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCGc3yJGslSFVk0u6jwO-749vC1Q_Ru2hROjvHPDAMHVHp3yj_93PkvelNqFeV0qDL0b5PUaTiy3T4ufEh8NRFhcA_Tp_ySRCOhiRZu2Ky34kruKIZ6SiNV0INc4LvpRSp0yIUuV5ioy0he2JcAroUfoNeyBHe4wnhWWLjZjo47vQIDAQAB";
+  static const _publicKeyString = "";
+  
   //密钥
   static const _privateKeyString = "";
 
